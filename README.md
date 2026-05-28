@@ -1,0 +1,1 @@
+I completed multiple online certification courses to strengthen my technical and analytical skills. This repository showcases my practice work, mini projects and implementations created during the learning process.
